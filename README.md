@@ -33,7 +33,8 @@
   
   <div>
    <img aling="center" alt"plataforma" height="30" width"40" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
-        </div>
-    
+        target="_blank"></a>
+  
     ![Snake animation](https://github.com/brunofva2/brunofva2/blob/output/github-contribution-grid-snake.svg)
-    
+  
+    </div>
