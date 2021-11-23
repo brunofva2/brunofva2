@@ -27,6 +27,7 @@
    <a href="https://www.linkedin.com/in/bruno-alcântara-366085225/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/brunofva1/" target="_blank"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target="_blank"></a>
      <a href="https://discord.gg/GfhAknhyHv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+   <a href="https://www.twitch.tv/1ns4nity_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   </div>
   
   ##
@@ -36,3 +37,4 @@
         target="_blank"></a>
   </div>
   
+  ![Snake animation](https://github.com/brunofva2/brunofva2/blob/output/github-contribution-grid-snake.svg)
